@@ -1,9 +1,13 @@
 1. Look up Pizza company
 2. Decide on which pizza 
-3. Call Pizza company
+3. Call the Pizza company
 4. Order the desired pizza
-   4a. Pay over the phone
-   4b. Pay at the door
-5. Wait for the delivery
+5a)   If I pay on the phone
+   - Wait for the delivery
+   - Tip the driver
+5b)   If I pay at the door
+   - Wait for the delivery 
+   - Pay for the pizza
+   - Tip the driver
 6. Answer the door for the delivery
-   
+      
